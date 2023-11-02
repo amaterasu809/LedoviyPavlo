@@ -1,0 +1,5 @@
+Pavel,80
+Tony,67
+Andriy,4
+Artem,50
+Vika,70

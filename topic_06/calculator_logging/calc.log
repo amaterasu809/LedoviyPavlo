@@ -1,0 +1,4 @@
+User entered wrong value when entering numbers.
+User entered numbers 1.0 and 2.0, action "+", received the result: 3.0
+User tried to divide by zero
+Invalid operator: g
